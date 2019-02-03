@@ -1,3 +1,4 @@
+/** Just adding a few variables together in a class */
 public class Numbers {
     public static void main(String[] args){
         int x = 5, y = 6, z = 50;
