@@ -1,4 +1,4 @@
-/** This how you document on one line*/
+/** This how you document on one line */
 public class comments {
     /**
      * This how you document
