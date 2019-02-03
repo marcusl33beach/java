@@ -1,4 +1,3 @@
-/** One class with a if  */
 public class Ifs {
     public static void main(String[] args){
         int x = 20;

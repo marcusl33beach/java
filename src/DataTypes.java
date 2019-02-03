@@ -1,4 +1,4 @@
-/** A Class with a few data types  */
+/** A Class with a few data types  **/
 public class DataTypes {
     public static void main(String[] args) {
         // Number

@@ -1,4 +1,4 @@
-/** Class with a if, else if and else */
+/** Class with a if, else if and else **/
 public class Elseifs {
     public static void main(String[] args){
         int time = 22;

@@ -1,4 +1,4 @@
-/** Class with else */
+/** Class with else **/
 public class Elses {
     public static void main(String[] args){
         int time = 20;
