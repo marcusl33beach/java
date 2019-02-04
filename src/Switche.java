@@ -1,5 +1,7 @@
-/** Class to show a switch on a variable */
-public class Switches {
+/**
+ * Class to show a switch on a variable
+ */
+public class Switche {
     public static void main(String[] args){
         int day = 4;
         switch (day) {
