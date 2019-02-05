@@ -1,7 +1,7 @@
 /**
  * Class to show a do while loop. This will count to 2000000
  */
-public class DoWhiles {
+public class DoWhile {
     public static void main(String[] args){
         int count = 0;
         do{
