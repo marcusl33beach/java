@@ -1,5 +1,5 @@
 /** Class with a if, else if and else */
-public class Elseifs {
+public class Elseif {
     public static void main(String[] args){
         int time = 22;
         if (time < 10) {
