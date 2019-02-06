@@ -9,7 +9,7 @@ public class Break {
             if (i == 4){
                 break;
             }
-            System.out.print(i); // Print out tht numbers 
+            System.out.print(i); // Print out tht numbers
         }
     }
 }
