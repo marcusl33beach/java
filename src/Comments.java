@@ -1,5 +1,5 @@
 /** This how you document on one line */
-public class comments {
+public class Comments {
     /**
      * This how you document
      * on two lines.
