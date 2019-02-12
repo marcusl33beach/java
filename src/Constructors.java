@@ -1,5 +1,5 @@
 /**
- * show how to use a conreuctor
+ * Show how to use a constructor
  */
 public class Constructors {
     int modelYear; // Create a class attribute
