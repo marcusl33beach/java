@@ -4,7 +4,7 @@
 public class ClassMethod {
     // Static method
     static void staticMethod() {
-       System.out.println(" No need to create a object when calling a static method");
+       System.out.println("No need to create a object when calling a static method");
     }
 
     // Public method
