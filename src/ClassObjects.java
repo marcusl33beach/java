@@ -8,4 +8,4 @@ public class ClassObjects {
         ClassObjects myObj = new ClassObjects();
         System.out.println(myObj.x);
     }
-} // Output 5 
+} // Output 5
